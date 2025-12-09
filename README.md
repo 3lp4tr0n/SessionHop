@@ -8,5 +8,4 @@ SessionHop is a C# tool that utilizes the `IHxHelpPaneServer` COM object, config
 
 ```SessionHop.exe <session_id> <executable>```
 
-[PICTURE]
 
